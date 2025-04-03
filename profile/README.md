@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://example.com/logo.png" alt="Logo" width="100px" />
+  <img src="logo.svg" alt="Logo" width="300px" />
   <h1>👽 <b>NibbEngineers</b> 👽</h1>
 </div>
 
